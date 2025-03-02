@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "NytF8B2iNnw=",
+  "dgSpecHash": "z0HC73Z2MLU=",
   "success": true,
   "projectFilePath": "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.testplatform.testhost/17.13.0/microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
   "logs": []
 }

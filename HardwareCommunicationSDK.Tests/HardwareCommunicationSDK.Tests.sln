@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareCommunicationSDK.Tests", "HardwareCommunicationSDK.Tests.csproj", "{D6177AAF-52EB-1CB5-B35B-2B590E21E263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6177AAF-52EB-1CB5-B35B-2B590E21E263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6177AAF-52EB-1CB5-B35B-2B590E21E263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6177AAF-52EB-1CB5-B35B-2B590E21E263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6177AAF-52EB-1CB5-B35B-2B590E21E263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B041A51-C6A5-4D74-9478-CC3688F8CEA7}
+	EndGlobalSection
+EndGlobal
