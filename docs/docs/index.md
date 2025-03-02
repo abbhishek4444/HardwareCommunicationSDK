@@ -13,5 +13,5 @@ This SDK provides a set of modular communication protocols for industrial hardwa
 To install the SDK, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HardwareCommunicationSDK.git
+git clone https://github.com/abbhishek4444/HardwareCommunicationSDK.git
 
