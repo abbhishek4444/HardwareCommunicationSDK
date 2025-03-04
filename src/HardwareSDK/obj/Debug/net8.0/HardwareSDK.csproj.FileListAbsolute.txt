@@ -1,0 +1,16 @@
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/bin/Debug/net8.0/HardwareSDK.deps.json
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/bin/Debug/net8.0/HardwareSDK.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/bin/Debug/net8.0/HardwareSDK.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/bin/Debug/net8.0/Communications.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/bin/Debug/net8.0/Communications.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.csproj.AssemblyReference.cache
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.AssemblyInfoInputs.cache
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.AssemblyInfo.cs
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.csproj.CoreCompileInputs.cache
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.sourcelink.json
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/Hardware.AF3267C8.Up2Date
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/refint/HardwareSDK.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/HardwareSDK.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/obj/Debug/net8.0/ref/HardwareSDK.dll

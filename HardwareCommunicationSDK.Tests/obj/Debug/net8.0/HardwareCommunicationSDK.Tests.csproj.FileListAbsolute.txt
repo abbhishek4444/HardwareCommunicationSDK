@@ -1,9 +1,12 @@
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_HardwareCommunicationSDK.Tests
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_HardwareCommunicationSDK.Tests
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/xunit.abstractions.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareCommunicationSDK.Tests.deps.json
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareCommunicationSDK.Tests.runtimeconfig.json
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareCommunicationSDK.Tests.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareCommunicationSDK.Tests.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/FluentAssertions.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -82,6 +85,10 @@
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/Communications.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareSDK.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/HardwareSDK.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/bin/Debug/net8.0/Communications.pdb
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/obj/Debug/net8.0/HardwareCommunicationSDK.Tests.csproj.AssemblyReference.cache
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/obj/Debug/net8.0/HardwareCommunicationSDK.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/obj/Debug/net8.0/HardwareCommunicationSDK.Tests.AssemblyInfoInputs.cache

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JxvQxcrlzxE=",
+  "dgSpecHash": "evTAvgOjWT8=",
   "success": true,
   "projectFilePath": "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/HardwareCommunicationSDK.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/abhishekpanchal/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/fluentassertions/8.1.1/fluentassertions.8.1.1.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",

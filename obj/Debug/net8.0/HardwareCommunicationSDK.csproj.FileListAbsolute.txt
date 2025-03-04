@@ -2,6 +2,7 @@
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/HardwareCommunicationSDK.runtimeconfig.json
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/HardwareCommunicationSDK.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/HardwareCommunicationSDK.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/FluentAssertions.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/abhishekpanchal/Documents/HardwareCommunicationSDK/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll

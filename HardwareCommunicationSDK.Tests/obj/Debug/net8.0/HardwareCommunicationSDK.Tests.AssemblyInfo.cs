@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HardwareCommunicationSDK.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c2f18676069ac9acab6bf85e316d800b390ea71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7d4b5f555557995301d60c443c0a6664e5bf95")]
 [assembly: System.Reflection.AssemblyProductAttribute("HardwareCommunicationSDK.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HardwareCommunicationSDK.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/bin/Debug/net8.0/Communications.deps.json
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/bin/Debug/net8.0/Communications.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/bin/Debug/net8.0/Communications.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.AssemblyInfoInputs.cache
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.AssemblyInfo.cs
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.csproj.CoreCompileInputs.cache
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.sourcelink.json
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/refint/Communications.dll
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/Communications.pdb
+/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/Communications/obj/Debug/net8.0/ref/Communications.dll

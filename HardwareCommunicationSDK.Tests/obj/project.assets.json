@@ -8,6 +8,19 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "FluentAssertions/8.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.13.0": {
         "type": "package",
         "compile": {
@@ -411,6 +424,29 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Communications/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Communications.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Communications.dll": {}
+        }
+      },
+      "HardwareSDK/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Communications": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HardwareSDK.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HardwareSDK.dll": {}
+        }
       }
     }
   },
@@ -466,6 +502,31 @@
         "coverlet-icon.png",
         "coverlet.collector.6.0.0.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "FluentAssertions/8.1.1": {
+      "sha512": "tzrZ95x7TWY4panvAhVoHg5zIhg4768Cx+8ZPoKR2sDPu2oCvVeg3ts0TTL0aJlIfZ1NGxCtBP5s555AgXJozg==",
+      "type": "package",
+      "path": "fluentassertions/8.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FluentAssertions.png",
+        "LICENSE",
+        "fluentassertions.8.1.1.nupkg.sha512",
+        "fluentassertions.nuspec",
+        "lib/net47/FluentAssertions.dll",
+        "lib/net47/FluentAssertions.pdb",
+        "lib/net47/FluentAssertions.xml",
+        "lib/net6.0/FluentAssertions.dll",
+        "lib/net6.0/FluentAssertions.pdb",
+        "lib/net6.0/FluentAssertions.xml",
+        "lib/netstandard2.0/FluentAssertions.dll",
+        "lib/netstandard2.0/FluentAssertions.pdb",
+        "lib/netstandard2.0/FluentAssertions.xml",
+        "lib/netstandard2.1/FluentAssertions.dll",
+        "lib/netstandard2.1/FluentAssertions.pdb",
+        "lib/netstandard2.1/FluentAssertions.xml"
       ]
     },
     "Microsoft.CodeCoverage/17.13.0": {
@@ -911,10 +972,22 @@
         "xunit.runner.visualstudio.3.0.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Communications/1.0.0": {
+      "type": "project",
+      "path": "../src/Communications/Communications.csproj",
+      "msbuildProject": "../src/Communications/Communications.csproj"
+    },
+    "HardwareSDK/1.0.0": {
+      "type": "project",
+      "path": "../src/HardwareSDK/HardwareSDK.csproj",
+      "msbuildProject": "../src/HardwareSDK/HardwareSDK.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "FluentAssertions >= 8.1.1",
+      "HardwareSDK >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.13.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.9.3",
@@ -945,7 +1018,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/HardwareSDK.csproj": {
+              "projectPath": "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/HardwareSDK.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -963,6 +1040,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FluentAssertions": {
+            "target": "Package",
+            "version": "[8.1.1, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.13.0, )"
