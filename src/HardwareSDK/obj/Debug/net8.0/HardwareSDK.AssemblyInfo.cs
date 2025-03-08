@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HardwareSDK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7d4b5f555557995301d60c443c0a6664e5bf95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a18f39a4f7f05c344c87620548f425da384553f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HardwareSDK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HardwareSDK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,12 +2,27 @@ using Xunit;
 using HardwareCommunicationSDK.Communications;
 using FluentAssertions;
 using System;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace HardwareCommunicationSDK.Tests
 {
-    
+
     public class ModbusCommunicationTests
     {
+        private readonly IServiceProvider _serviceProvider;
+        private readonly CommunicationFactory _factory;
+
+        public ModbusCommunicationTests()
+        {
+            // Set up the Dependency Injection container
+            var services = new ServiceCollection();
+            services.AddTransient<ModbusCommunication>(); // Ensure ModbusCommunication is registered
+            _serviceProvider = services.BuildServiceProvider();
+
+            // Initialize CommunicationFactory with the DI container
+            _factory = new CommunicationFactory(_serviceProvider);
+        }
+
         [Fact]
         public void Connect_ValidAddress_ShouldNotThrowException()
         {
@@ -38,7 +53,7 @@ namespace HardwareCommunicationSDK.Tests
         [Fact]
         public void CreateProtocol_ValidType_ShouldReturnInstance()
         {
-            var protocol = CommunicationFactory.CreateProtocol("Modbus");
+            var protocol = _factory.CreateProtocol("Modbus");
             protocol.Should().NotBeNull();
             protocol.Should().BeOfType<ModbusCommunication>();
         }
@@ -46,10 +61,8 @@ namespace HardwareCommunicationSDK.Tests
         [Fact]
         public void CreateProtocol_InvalidType_ShouldThrowException()
         {
-            Action action = () => CommunicationFactory.CreateProtocol("Unknown");
+            Action action = () => _factory.CreateProtocol("Unknown");
             action.Should().Throw<ArgumentException>().WithMessage("Unsupported protocol");
         }
     }
-    
 }
-

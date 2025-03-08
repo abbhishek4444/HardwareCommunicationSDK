@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "evTAvgOjWT8=",
+  "dgSpecHash": "cUfqiUjG2WY=",
   "success": true,
   "projectFilePath": "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/HardwareCommunicationSDK.Tests/HardwareCommunicationSDK.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/abhishekpanchal/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/fluentassertions/8.1.1/fluentassertions.8.1.1.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
     "/Users/abhishekpanchal/.nuget/packages/microsoft.testplatform.testhost/17.13.0/microsoft.testplatform.testhost.17.13.0.nupkg.sha512",

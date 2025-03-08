@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "m3Hu1Wll8go=",
+  "dgSpecHash": "xJGARQ7qQEc=",
   "success": true,
   "projectFilePath": "/Users/abhishekpanchal/Documents/HardwareCommunicationSDK/src/HardwareSDK/HardwareSDK.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/abhishekpanchal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
